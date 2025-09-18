@@ -1,0 +1,99 @@
+hr {
+  border: none;
+  height: 4px;
+  border-radius: 4px;
+  background: linear-gradient(to right, #775636, #d69662);
+  margin: 0;
+  width: 100%;
+}
+
+.entrada {
+  background-image: url('../img/Arbo\ Principal.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 60px 20px 40px 20px;
+  color: #fff;
+}
+
+.entrada h1 {
+  margin: 0;
+  font-size: 2.5rem;
+  font-weight: 600;
+  margin-bottom: 5px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.entrada h2 {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 400;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body {
+  background-color: rgb(233, 230, 220);
+}
+
+p {
+  background: rgb(226, 221, 207);
+  padding: 12px 18px;
+  border-left: 4px solid rgb(99, 129, 99);
+  border-radius: 8px;
+}
+
+.todos {
+  background-image: url('../img/Plano\ de\ Fundo\ dos\ Títulos.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 60px 20px 40px 20px;
+  color: #fff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.todos h1 {
+  margin: 0;
+  font-size: 2.5rem;
+  font-weight: 600;
+  margin-bottom: 5px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.todos h2 {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 400;
+  font-family: Arial, Helvetica, sans-serif
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 20px;
+}
+
+th, td {
+      padding: 14px;
+      text-align: center;
+    }
+
+    th {
+      background-color: #775636;
+      color: white;
+      font-size: 18px;
+      letter-spacing: 1px;
+    }
+
+    tr:nth-child(even) {
+      background-color: #f9f9f9;
+    }
+
+    tr:hover {
+      background-color: #ffe0b2;
+      transition: 0.3s;
+    }
+
+    a{
+      color: #775636;
+    }
