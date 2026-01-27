@@ -1,5 +1,7 @@
 # 🍽️ Restaurante Arbo — CESAR School | 🇧🇷
 
+🌐 **Acesse o site aqui:** [Restaurante Arbo](https://luisgalliza.github.io/cesarSchool-RestauranteArbo/)
+
 Este repositório contém uma atividade acadêmica desenvolvida na **CESAR School**, com foco em **HTML e CSS**, cujo objetivo foi a criação de um **cardápio digital** para um restaurante fictício chamado **Restaurante Arbo**.
 
 ## 📌 Objetivo da Atividade
@@ -30,6 +32,8 @@ Projeto desenvolvido como parte das atividades práticas da **CESAR School**, co
 ---
 
 # 🍽️ Restaurante Arbo — CESAR School | 🇺🇸
+
+🌐 **Visit the site here:** [Restaurante Arbo](https://luisgalliza.github.io/cesarSchool-RestauranteArbo/)
 
 This repository contains an **academic project** developed at **CESAR School**, focused on **HTML and CSS**, with the goal of creating a **digital menu** for a fictional restaurant called **Restaurante Arbo**.
 
